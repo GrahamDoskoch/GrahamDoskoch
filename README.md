@@ -1,10 +1,10 @@
-I'm Graham, a third-year PhD student working at the [Center for Gravitational Waves and Cosmology](https://gwac.wvu.edu/) in the Department of Physics and Astronomy at West Virginia University. My research centers on pulsars, rotating radio transients and gravitational wave detection using pulsar timing arrays - in particular, [NANOGrav](http://nanograv.org/) and the [IPTA](http://ipta4gw.org/).
+I'm Graham, a fifth-year PhD student working at the [Center for Gravitational Waves and Cosmology](https://gwac.wvu.edu/) in the Department of Physics and Astronomy at West Virginia University. My research centers on pulsars, single pulse searches, rotating radio transients and gravitational wave detection using pulsar timing arrays - in particular, [NANOGrav](http://nanograv.org/) and the [IPTA](http://ipta4gw.org/).
 
 I'm currently working on:
  - Assembling the dataset for the IPTA's third data release
  - Timing a selection of rotating radio transients discovered by the [PALFA survey](http://www.naic.edu/~palfa/)
  - Performing an analysis of giant pulses from the Crab pulsar
- - Planning single-pulse analysis for [the Petabyte Project](https://github.com/thepetabyteproject) and developing the extremely nascent [arts](https://github.com/thepetabyteproject/arts) package, containing common radio astronomy utilities
+ - Planning single-pulse analysis for [the Petabyte Project](https://github.com/thepetabyteproject)
 
 <!--
 **GrahamDoskoch/GrahamDoskoch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
